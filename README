@@ -1,0 +1,19 @@
+=============================
+
+Twenty Eleven DFF
+Version 1.0
+January 11, 2012
+Created by Mathew Packer
+Original: http://mathewpacker.com
+License: MIT/GPL
+
+https://github.com/matpacker/DF-Twenty-Eleven-WP-Theme
+http://mathewpacker.com/code/dff-twenty-eleven
+
+=============================
+
+This is a child theme for WordPress's default Twenty Eleven theme, customized for the DFLL plugin. 
+
+To install, make sure you have Twenty Eleven installed in a folder called "twentyeleven" (or edit style.css to point it to the right place). Then, add this folder to your themes folder, and activate the theme. 
+
+More specific instructions will be added in the coming days. 
