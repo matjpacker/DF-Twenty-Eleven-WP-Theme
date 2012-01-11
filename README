@@ -16,4 +16,6 @@ This is a child theme for WordPress's default Twenty Eleven theme, customized fo
 
 To install, make sure you have Twenty Eleven installed in a folder called "twentyeleven" (or edit style.css to point it to the right place). Then, add this folder to your themes folder, and activate the theme. 
 
+To add in the 'Daring Fireball' style link posts you'll need to install the Daring Fireball Linked List plugin via http://wordpress.org/extend/plugins/daring-fireball-linked-list/
+
 More specific instructions will be added in the coming days. 
